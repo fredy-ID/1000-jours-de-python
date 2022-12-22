@@ -7,4 +7,4 @@ Ce projet est influencé essentiellement par mes etudes autodidactes en Data Sci
 
 ### Jour 0001
 
-
+Jeu de devinette du nombre généré aléatoirement
