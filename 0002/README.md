@@ -1,4 +1,4 @@
-Exercice 1 Solve Problems on Python Strings : https://geekflare.com/fr/beginner-python-projects/
+Arrivé à 1.4 https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python/7195794-creez-et-utilisez-des-objets-python
 
 
 Mots clés : A la maison, Temps libre, Python, Orienté objet
