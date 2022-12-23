@@ -5,6 +5,12 @@ Ce projet est influencé essentiellement par mes etudes autodidactes en Data Sci
 
 - 1 Reprise abondant (RA)
 
+### Jour 0002
+
+Réviser la programmation orienté objet avec openclassroom
+https://openclassrooms.com/fr/courses/7150616-apprenez-la-programmation-orientee-objet-avec-python/7195399-tirez-le-maximum-de-ce-cours
+
+
 ### Jour 0001
 
 Jeu de devinette du nombre généré aléatoirement
